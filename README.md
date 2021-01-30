@@ -15,6 +15,7 @@ Here are the results that answer the following questions all based on the three 
 ![](images/PyBer_summary.PNG)
 
 
+# Summary:
 The line graph represents the results of total fares from January to April for the urban, suburban, rural city types.  It shows that the strongest "sales" were for the urban city type and the least "sales" were for the rural city type.  As to my opinion, the results are to be expected.  More of the rural population have their own vehicles because they must drive more and further for their everyday activities, it's economical for them to own a car then to take a rideshare service. The urban population however takes our service more often for shorter and quicker rides around the urban area.    
 
 
