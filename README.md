@@ -1,4 +1,4 @@
-# PyBer_Analysis
+# PyBer Analysis
 # Purpose:
 The purpose of the PyBer analysis is to show the total weekly fares for the urban, suburban and rural city types.  
 
